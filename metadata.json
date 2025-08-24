@@ -1,0 +1,5 @@
+{
+  "name": "Social Media Sentiment Dashboard",
+  "description": "A real-time dashboard that tracks a campaign hashtag, analyzes sentiment using Gemini, and visualizes the data in an interactive interface with light and dark modes.",
+  "requestFramePermissions": []
+}
